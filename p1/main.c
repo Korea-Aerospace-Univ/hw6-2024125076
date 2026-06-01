@@ -26,6 +26,6 @@ int main()
         }
     }
     
-    printf("%c%d",max_char,max_count);
+    printf("%c %d",max_char,max_count);
     return 0;
 }
