@@ -29,6 +29,6 @@ int main()
         max_char=current_char;
         
     }
-    printf("%c %d", max_char, max_count);
+    printf("%c%d", max_char, max_count);
     
 }
